@@ -22,35 +22,85 @@ We believe that collaboration builds stronger developers - and a stronger commun
 
 ---
 
-### 👥 How to Join
-1. **Follow** this organization on GitHub.  
-2. **Send your GitHub username** to our email:  
-   ✉️ `densofdevelopers@outlook.com`  
-3. Once added, you can:
-   - Create new repositories under the organization  
-   - Contribute to existing projects  
-   - Collaborate with peers on coursework or personal ideas  
+## How to Join
+
+Interested in joining our organization? Here's how:
+
+1. **Follow this organization** on GitHub
+2. **Send an email** to ✉️ `densofdevelopers@outlook.com` with the following information:
+   * Your GitHub username
+   * Your batch number
+   * Your student ID
+   * A brief introduction about yourself
+
+3. Our team will review your application and send you an invitation once verified
+
+4. **After joining, you'll be able to:**
+   * Create repositories under the organization
+   * Contribute to existing projects
+   * Collaborate with other members
 
 ---
 
-### 🧩 Contribution Guide
-1. **Fork** the repository  
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/your-feature
+## 🧩 Contribution Guide
 
-3. **Commit your changes**
+We maintain a structured contribution process to ensure code quality. Please follow these guidelines when contributing.
 
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. **Push your branch**
+### For Minor Changes (Typos, Documentation, Small Fixes)
 
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. **Open a Pull Request** for review
+Create an issue first:
 
+1. Go to the repository's **Issues** tab
+2. Click **New Issue** and describe the change
+3. Add appropriate labels (e.g., `documentation`, `typo`, `bug`)
+4. Wait for maintainer approval before proceeding
+
+### For Major Changes (Features, Significant Updates)
+
+Follow the pull request workflow:
+
+1. **Fork the repository**
+
+2. **Clone your fork**:
+```bash
+   git clone https://github.com/your-username/repo-name.git
+```
+
+3. **Create a feature branch**:
+```bash
+   git checkout -b feature/your-feature-name
+```
+
+4. **Commit your changes**:
+```bash
+   git commit -m "Add: implement user authentication feature"
+```
+
+5. **Push to your fork**:
+```bash
+   git push origin feature/your-feature-name
+```
+
+6. **Open a Pull Request**:
+   * Navigate to the original repository
+   * Click **New Pull Request**
+   * Select your branch and provide a detailed description
+   * Reference related issues using `#issue-number`
+
+7. Wait for code review and address any feedback
+
+---
+
+### Guidelines
+
+* Create an issue for minor changes before submitting fixes
+* Never push directly to the main branch
+* Use branch naming conventions: `feature/`, `fix/`, `docs/`
+* Write clear, descriptive commit messages
+* Keep pull requests focused on a single feature or fix
+* Respond promptly to review feedback
+
+Following these guidelines helps us maintain a clean and collaborative codebase.
 ---
 
 ### 📜 Code of Conduct
