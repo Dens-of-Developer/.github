@@ -7,6 +7,7 @@
 ---
 
 ### 💡 Our Mission
+
 Dens of Developers is a community founded by international students of **Sichuan University**.  
 We aim to create a collaborative space where **software engineering students** can learn, build, and grow together through teamwork, shared projects, and open-source contributions.
 
@@ -15,10 +16,11 @@ We believe that collaboration builds stronger developers - and a stronger commun
 ---
 
 ### 💻 What We Do
-- 🤝 **Collaborate on projects** related to software engineering courses and personal ideas  
-- 💡 **Share knowledge and resources** to support each other’s learning  
-- 🛠️ **Build open-source tools and applications** that represent our creativity and technical skill  
-- 📖 **Encourage teamwork and innovation** among international and local students  
+
+- 🤝 **Collaborate on projects** related to software engineering courses and personal ideas
+- 💡 **Share knowledge and resources** to support each other’s learning
+- 🛠️ **Build open-source tools and applications** that represent our creativity and technical skill
+- 📖 **Encourage teamwork and innovation** among international and local students
 
 ---
 
@@ -27,18 +29,19 @@ We believe that collaboration builds stronger developers - and a stronger commun
 Interested in joining our organization? Here's how:
 
 1. **Follow this organization** on GitHub
-2. **Send an email** to ✉️ `densofdevelopers@outlook.com` with the following information:
-   * Your GitHub username
-   * Your batch number
-   * Your student ID
-   * A brief introduction about yourself
+2. **Send an email** to ✉️ `densofdeveloper@outlook.com` with the following information:
+
+   - Your GitHub username
+   - Your batch number
+   - Your student ID
+   - A brief introduction about yourself
 
 3. Our team will review your application and send you an invitation once verified
 
 4. **After joining, you'll be able to:**
-   * Create repositories under the organization
-   * Contribute to existing projects
-   * Collaborate with other members
+   - Create repositories under the organization
+   - Contribute to existing projects
+   - Collaborate with other members
 
 ---
 
@@ -62,30 +65,35 @@ Follow the pull request workflow:
 1. **Fork the repository**
 
 2. **Clone your fork**:
+
 ```bash
    git clone https://github.com/your-username/repo-name.git
 ```
 
 3. **Create a feature branch**:
+
 ```bash
    git checkout -b feature/your-feature-name
 ```
 
 4. **Commit your changes**:
+
 ```bash
    git commit -m "Add: implement user authentication feature"
 ```
 
 5. **Push to your fork**:
+
 ```bash
    git push origin feature/your-feature-name
 ```
 
 6. **Open a Pull Request**:
-   * Navigate to the original repository
-   * Click **New Pull Request**
-   * Select your branch and provide a detailed description
-   * Reference related issues using `#issue-number`
+
+   - Navigate to the original repository
+   - Click **New Pull Request**
+   - Select your branch and provide a detailed description
+   - Reference related issues using `#issue-number`
 
 7. Wait for code review and address any feedback
 
@@ -93,27 +101,26 @@ Follow the pull request workflow:
 
 ### Guidelines
 
-* Create an issue for minor changes before submitting fixes
-* Never push directly to the main branch
-* Use branch naming conventions: `feature/`, `fix/`, `docs/`
-* Write clear, descriptive commit messages
-* Keep pull requests focused on a single feature or fix
-* Respond promptly to review feedback
+- Create an issue for minor changes before submitting fixes
+- Never push directly to the main branch
+- Use branch naming conventions: `feature/`, `fix/`, `docs/`
+- Write clear, descriptive commit messages
+- Keep pull requests focused on a single feature or fix
+- Respond promptly to review feedback
 
-Following these guidelines helps us maintain a clean and collaborative codebase.
----
+## Following these guidelines helps us maintain a clean and collaborative codebase.
 
 ### 📜 Code of Conduct
 
-* Be respectful and inclusive
-* Support collaboration and learning
-* Avoid plagiarism or unethical content
+- Be respectful and inclusive
+- Support collaboration and learning
+- Avoid plagiarism or unethical content
 
 ---
 
 ### 📬 Connect With Us
 
-✉️ Email: `densofdevelopers@outlook.com`  
+✉️ Email: `densofdeveloper@outlook.com`  
 🏛️ Sichuan University
 
 > “Alone we code faster, together we code better.” - Dens of Developers
